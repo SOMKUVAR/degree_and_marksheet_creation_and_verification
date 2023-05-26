@@ -1,0 +1,6 @@
+[submodule "contract_and_frontend"]
+	path = contract_and_frontend
+	url = https://github.com/SOMKUVAR/web3.git
+[submodule "backend_web2.0"]
+	path = backend_web2.0
+	url = https://github.com/SOMKUVAR/backend.git
