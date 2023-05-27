@@ -31,3 +31,9 @@ validate degree and marksheet in a much better way than doing it manually and
 keeping the records physically. QR code based marksheets is a way to enhance and 
 upgrade the current generated marksheets into more reliable as compared to before. 
 The current old system has a lot of vulnerabilities that caused creation of fake degree. 
+
+
+Steps for installation :
+1.Go to all submodules.
+2.In submodule to main branch of that repository.
+3.Read the readme file and follow the process.
